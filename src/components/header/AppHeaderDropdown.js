@@ -84,7 +84,7 @@ const AppHeaderDropdown = () => {
           </CBadge>
         </CDropdownItem>
         <CDropdownDivider />
-        <CDropdownItem href="https://acp.scasify.com/cdn-cgi/access/logout">
+        <CDropdownItem href="/cdn-cgi/access/logout">
           <CIcon icon={cilLockLocked} className="me-2" />
           Lock Account
         </CDropdownItem>
